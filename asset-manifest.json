@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tenzy-game/static/css/main.d34a0dbf.css",
+    "main.js": "/Tenzy-game/static/js/main.53681321.js",
+    "static/js/787.876f76cf.chunk.js": "/Tenzy-game/static/js/787.876f76cf.chunk.js",
+    "index.html": "/Tenzy-game/index.html",
+    "main.d34a0dbf.css.map": "/Tenzy-game/static/css/main.d34a0dbf.css.map",
+    "main.53681321.js.map": "/Tenzy-game/static/js/main.53681321.js.map",
+    "787.876f76cf.chunk.js.map": "/Tenzy-game/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34a0dbf.css",
+    "static/js/main.53681321.js"
+  ]
+}
